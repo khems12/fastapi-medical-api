@@ -3,7 +3,7 @@ import sqlite3
 # to initialize FastAPI App
 app = FastAPI(title="Anonymized Patient Records API")
 
-DB_PATH = "/content/anonymized_patients.db"
+DB_PATH = "anonymized_patients (1).db"
 
 @app.get("/patients/risk_alerts")
 def get_risk_alerts():
