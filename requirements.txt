@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+fpdf
+fastapi
+uvicorn
+pyngrok
+sqlite3
